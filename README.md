@@ -1,7 +1,7 @@
 # Books
 
 ## Why I like reading books?
-I always liked reading books especially storybooks. I still remember my childhood self fervently turning the pages of my books as the story unfolded. I don't read books as much nowadays but I would like to get back in the habit of doing so and I would encourage others to do so. When I read I feel like I am transported to another reality. It's like being a witness to someone else's every aspect of life or story. It also helps me to broaden my imagination and see things through different perspective. All in all, I just enjoy reading!
+I always liked reading books especially storybooks. I still remember my childhood self fervently turning the pages of as the story unfolded. I don't read books as much nowadays but I would like to get back in the habit of doing so and I would encourage others to do so. When I read I feel like I am transported to another reality. It's like being a witness to someone else's every aspect of life or story. It also helps me to broaden my imagination and see things through different perspective. All in all, I just enjoy reading!
 
 ## Here are a few recommendations:
 1. The Alchemist by Paulo Coelho
