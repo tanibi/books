@@ -33,6 +33,6 @@ Image Source: [images-na.ssl-images-amazon.com](https://images-na.ssl-images-ama
 3. [Books for Starters](https://www.quora.com/What-are-some-of-the-best-novels-to-read-for-beginners)
   
 ## References
-- [](https://prodimage.images-bn.com/pimages/9780062355300_p0_v1_s550x406.jpg)
-- [](https://www2.alibris-static.com/the-kite-runner/isbn/9781526604743_l.jpg)
-- [](https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg)
+- [prodimage](https://prodimage.images-bn.com/pimages/9780062355300_p0_v1_s550x406.jpg)
+- [alibris-static](https://www2.alibris-static.com/the-kite-runner/isbn/9781526604743_l.jpg)
+- [images-na](https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg)
